@@ -1,2 +1,3 @@
-flask
-anthropic
+fastapi
+python-multipart
+uvicorn
